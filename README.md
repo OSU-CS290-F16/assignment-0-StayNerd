@@ -1,9 +1,9 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: Nicholas A. Ivanoff
 
-ONID ID: `ONID_ID`
+ONID ID: 931-956-935
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
