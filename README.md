@@ -3,7 +3,7 @@
 
 Name: Nicholas A. Ivanoff
 
-ONID ID: 931-956-935
+ONID ID: ivanoffn
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
